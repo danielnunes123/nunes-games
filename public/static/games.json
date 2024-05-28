@@ -1,0 +1,23 @@
+[
+
+    {
+      "id": "0000001",
+      "name": "Ninja.io" ,
+      "category": "Acção e Aventura",
+      "image": "https://www.desura.com/files/images/47/47d1b6721a4ed1649fdb25bc494055a1.jpg",
+      "url":"/Ninja.io"
+    },
+    {
+      "id": "0000002",
+      "name": "Dynast.io" ,
+      "category": "Acção e Aventura",
+      "image": "https://iogames.games/data/image/game/dynast.jpg"
+    },
+    {
+      "id": "0000003",
+      "name": "1v1.LOL" ,
+      "category": "Acção e Aventura",
+      "image": "https://drifthunters2.io/data/image/game/1v1%20LOL.png"
+    }
+  ]
+ 
